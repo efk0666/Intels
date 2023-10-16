@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G-Hub/main/Extras/Anti-Cheat"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/Games/Car-Crashers-2'))()
